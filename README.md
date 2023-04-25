@@ -1,6 +1,7 @@
 # vue3-ts-cms
 
 This template should help get you started developing with Vue 3 in Vite.
+<!-- 本人练习项目 -->
 * 账号：coderwhy/coderdemo
 * 密码：123456/123456
 * 禁止随便修改别人账号密码权限管理等相关操作
